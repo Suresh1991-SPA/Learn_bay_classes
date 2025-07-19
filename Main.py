@@ -5,3 +5,5 @@ print('Hi how are you')
 print('Hoow is your job')
 
 print('Day 4')
+
+print('It a beautiful day')
